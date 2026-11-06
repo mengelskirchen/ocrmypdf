@@ -1,0 +1,7 @@
+# Python >= 3.10; pip waehlt eine zur Python-Version passende Ausgabe.
+ocrmypdf>=16
+
+# Separat auf Systemebene installieren (nicht ueber pip):
+# - Tesseract OCR mit deutschem Sprachpaket (deu)
+# - Ghostscript, sofern von der verwendeten OCRmyPDF-Version benoetigt
+# Die Programme muessen fuer OCRmyPDF auffindbar sein.
